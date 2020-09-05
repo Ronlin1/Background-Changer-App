@@ -1,0 +1,37 @@
+body {
+    background-color: #000000;
+}
+#click {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+.div1{
+    border: 5px ridge black;
+    width: 750px;
+    height: 15cm;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color: black;
+}
+.button-1 {
+    
+    border-radius: 10px;
+    color: #000000;
+    background-color: #ff0484;
+    display: flex;
+    position: absolute;
+    height: 30px;
+    width: 85px;
+    font-size: 16px;
+    text-align: center;
+
+}
+.new {
+    margin-top: 35%;
+    margin-right: 25%;
+    margin-bottom: 45%;
+    margin-left: 45%;
+
+}
